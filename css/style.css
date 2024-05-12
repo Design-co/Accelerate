@@ -1568,12 +1568,12 @@ a:hover, span:hover {
 }
 
 .butn.bord {
-  border: 1px solid #010101;
+  border: 1px solid #25D366;
 }
 
 .butn.bord:hover {
-  background: #010101;
-  color: #333;
+  background: #25D366;
+  color: #ffffff;
 }
 
 .butn.light {
@@ -6849,6 +6849,9 @@ a:hover, span:hover {
   margin: 20px 2px;
   cursor: pointer;
   border-radius: 12px;
+}
+.whatsapp-button :hover{
+  color: white;
 }
 /* ====================== [ End contact ] ====================== */
 /* ====================== [ Start Footer ] ====================== */
